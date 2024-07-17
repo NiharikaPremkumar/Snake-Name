@@ -1,0 +1,3 @@
+#python's game development module.
+
+pygame==2.0.1
