@@ -1,3 +1,4 @@
+![snake game.png]
 # Snake Game
 
 This is a simple and fun Snake game implemented in Python using the Pygame library. The objective of the game is to control the snake to eat the food and grow in length without colliding with the walls or itself.
